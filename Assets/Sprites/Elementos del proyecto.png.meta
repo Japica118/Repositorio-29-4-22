@@ -1,0 +1,1332 @@
+fileFormatVersion: 2
+guid: eef27d1a646468c48be3cb194f6ce7b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5498380527721871794
+    second: Elementos del proyecto_0
+  - first:
+      213: -8463699248872037491
+    second: Elementos del proyecto_1
+  - first:
+      213: -3828625838705412199
+    second: Elementos del proyecto_2
+  - first:
+      213: 8106349327357966930
+    second: Elementos del proyecto_3
+  - first:
+      213: -3027189560215599631
+    second: Elementos del proyecto_4
+  - first:
+      213: -8538093421156096424
+    second: Elementos del proyecto_5
+  - first:
+      213: -2940873981023003163
+    second: Elementos del proyecto_6
+  - first:
+      213: -5033646969120503572
+    second: Elementos del proyecto_7
+  - first:
+      213: -7059283030293394258
+    second: Elementos del proyecto_8
+  - first:
+      213: 4291404378985685918
+    second: Elementos del proyecto_9
+  - first:
+      213: -3647919565137488448
+    second: Elementos del proyecto_10
+  - first:
+      213: -7841670707160288146
+    second: Elementos del proyecto_11
+  - first:
+      213: -8380503387458212306
+    second: Elementos del proyecto_12
+  - first:
+      213: -2796397794683519162
+    second: Elementos del proyecto_13
+  - first:
+      213: 7703476215565458800
+    second: Elementos del proyecto_14
+  - first:
+      213: 6945286229985318939
+    second: Elementos del proyecto_15
+  - first:
+      213: 8618814904298126034
+    second: Elementos del proyecto_16
+  - first:
+      213: -2429781743749059452
+    second: Elementos del proyecto_17
+  - first:
+      213: 279041219166101839
+    second: Elementos del proyecto_18
+  - first:
+      213: -6068692174806237894
+    second: Elementos del proyecto_19
+  - first:
+      213: -1813640746155773389
+    second: Elementos del proyecto_20
+  - first:
+      213: -8347819652003311422
+    second: Elementos del proyecto_21
+  - first:
+      213: -7923695818046774685
+    second: Elementos del proyecto_22
+  - first:
+      213: 1697183051049318307
+    second: Elementos del proyecto_23
+  - first:
+      213: -1913749797987286059
+    second: Elementos del proyecto_24
+  - first:
+      213: 6678576926560054127
+    second: Elementos del proyecto_25
+  - first:
+      213: 1445625939553801296
+    second: Elementos del proyecto_26
+  - first:
+      213: 7989236703285923949
+    second: Elementos del proyecto_27
+  - first:
+      213: -4922082140271673341
+    second: Elementos del proyecto_28
+  - first:
+      213: -7422274093438443167
+    second: Elementos del proyecto_29
+  - first:
+      213: 1879285392112561815
+    second: Elementos del proyecto_30
+  - first:
+      213: 600700026268528073
+    second: Elementos del proyecto_31
+  - first:
+      213: -795959115808351200
+    second: Elementos del proyecto_32
+  - first:
+      213: -6156529442276739937
+    second: Elementos del proyecto_33
+  - first:
+      213: 2891416098245530185
+    second: Elementos del proyecto_34
+  - first:
+      213: 3001522763120839414
+    second: Elementos del proyecto_35
+  - first:
+      213: 1854247275135395651
+    second: Elementos del proyecto_36
+  - first:
+      213: 5417508279985408245
+    second: Elementos del proyecto_37
+  - first:
+      213: 4291594641368423715
+    second: Elementos del proyecto_38
+  - first:
+      213: -1792239257046997372
+    second: Elementos del proyecto_39
+  - first:
+      213: -2869193536245423095
+    second: Elementos del proyecto_40
+  - first:
+      213: 3745528891219309270
+    second: Elementos del proyecto_41
+  - first:
+      213: -1476464213966139190
+    second: Elementos del proyecto_42
+  - first:
+      213: -7526916094895125286
+    second: Elementos del proyecto_43
+  - first:
+      213: 8012927779703206618
+    second: Elementos del proyecto_44
+  - first:
+      213: -7812731131876139467
+    second: Elementos del proyecto_45
+  - first:
+      213: 274867398900862210
+    second: Elementos del proyecto_46
+  - first:
+      213: 1638340192289034858
+    second: Elementos del proyecto_47
+  - first:
+      213: 7249309561115426886
+    second: Elementos del proyecto_48
+  - first:
+      213: -6753904711711353015
+    second: Elementos del proyecto_49
+  - first:
+      213: 3595682799854080056
+    second: Elementos del proyecto_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elementos del proyecto_0
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1403
+        width: 112
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46863daa04d1b3b0800000000000000
+      internalID: -5498380527721871794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1970
+        width: 247
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83ed313066ea8a80800000000000000
+      internalID: -8463699248872037491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1972
+        width: 220
+        height: 441
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997f41aa51dfddac0800000000000000
+      internalID: -3828625838705412199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1972
+        width: 215
+        height: 446
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25af56293c98f7070800000000000000
+      internalID: 8106349327357966930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1970
+        width: 232
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5049b32234df5d0800000000000000
+      internalID: -3027189560215599631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1504
+        width: 248
+        height: 438
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85624ec2549928980800000000000000
+      internalID: -8538093421156096424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1507
+        width: 261
+        height: 439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed5fe712baef27d0800000000000000
+      internalID: -2940873981023003163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_7
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1509
+        width: 232
+        height: 438
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8c9d040c4e42ab0800000000000000
+      internalID: -5033646969120503572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_8
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1506
+        width: 244
+        height: 442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac4b625c73680e90800000000000000
+      internalID: -7059283030293394258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_9
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1514
+        width: 278
+        height: 439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e936ffcbb812e8b30800000000000000
+      internalID: 4291404378985685918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_10
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1508
+        width: 249
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c558c6ab7cff5dc0800000000000000
+      internalID: -3647919565137488448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1070
+        width: 255
+        height: 397
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64ff1ee90acc2390800000000000000
+      internalID: -7841670707160288146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1025
+        width: 242
+        height: 447
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e6897229872bb80800000000000000
+      internalID: -8380503387458212306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 566
+        width: 274
+        height: 433
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff33d85033139d0800000000000000
+      internalID: -2796397794683519162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 559
+        width: 265
+        height: 441
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d1374adce38ea60800000000000000
+      internalID: 7703476215565458800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_15
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 564
+        width: 265
+        height: 439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18dfa9470d926060800000000000000
+      internalID: 6945286229985318939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 565
+        width: 270
+        height: 446
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da3883bd7e2c9770800000000000000
+      internalID: 8618814904298126034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_17
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 570
+        width: 302
+        height: 458
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cab1aa06ea74ed0800000000000000
+      internalID: -2429781743749059452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 76
+        width: 310
+        height: 442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41661aa28a5fd300800000000000000
+      internalID: 279041219166101839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_19
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 74
+        width: 272
+        height: 441
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d3b7dce9ca7cba0800000000000000
+      internalID: -6068692174806237894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_20
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1952
+        width: 345
+        height: 468
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332f537b957a4d6e0800000000000000
+      internalID: -1813640746155773389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_21
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1953
+        width: 340
+        height: 468
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c051515146962c80800000000000000
+      internalID: -8347819652003311422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_22
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 1962
+        width: 337
+        height: 466
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362e21192a0690290800000000000000
+      internalID: -7923695818046774685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_23
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 1963
+        width: 320
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7bb9c2efa9d8710800000000000000
+      internalID: 1697183051049318307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_24
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1654
+        width: 298
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d30efdb2bef075e0800000000000000
+      internalID: -1913749797987286059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_25
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1669
+        width: 255
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b6bb084521fac50800000000000000
+      internalID: 6678576926560054127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_26
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1673
+        width: 192
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d13df125ef0410800000000000000
+      internalID: 1445625939553801296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_27
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 1662
+        width: 178
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60dedde3787fde60800000000000000
+      internalID: 7989236703285923949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_28
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 1657
+        width: 212
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30000d92f5041bbb0800000000000000
+      internalID: -4922082140271673341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_29
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1401
+        width: 117
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16164037909cef890800000000000000
+      internalID: -7422274093438443167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_30
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1001
+        width: 55
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e23747b10941a10800000000000000
+      internalID: 1879285392112561815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_31
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 1003
+        width: 47
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdad42cd7d165800800000000000000
+      internalID: 600700026268528073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_32
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 1002
+        width: 35
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c528eb66f24f4f0800000000000000
+      internalID: -795959115808351200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_33
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 1398
+        width: 124
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f947cd7471d9f8aa0800000000000000
+      internalID: -6156529442276739937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_34
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 996
+        width: 61
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94255c93f9f502820800000000000000
+      internalID: 2891416098245530185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_35
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 996
+        width: 81
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa0111ec0d87a920800000000000000
+      internalID: 3001522763120839414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_36
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 855
+        width: 21
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3476e20921c9bb910800000000000000
+      internalID: 1854247275135395651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_37
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 851
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88444d31bde2b40800000000000000
+      internalID: 5417508279985408245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_38
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 843
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d1cb6a69ece8b30800000000000000
+      internalID: 4291594641368423715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_39
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 827
+        width: 44
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486243334efa027e0800000000000000
+      internalID: -1792239257046997372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_40
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 812
+        width: 76
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904ae303ea39e28d0800000000000000
+      internalID: -2869193536245423095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_41
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 321
+        width: 408
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2f6119eaacaf330800000000000000
+      internalID: 3745528891219309270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_42
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 310
+        width: 417
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0d8fabe9b828be0800000000000000
+      internalID: -1476464213966139190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_43
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 559
+        width: 328
+        height: 470
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc0b95e0b50b8790800000000000000
+      internalID: -7526916094895125286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_44
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 549
+        width: 295
+        height: 461
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2b1108c53a33f60800000000000000
+      internalID: 8012927779703206618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_45
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 553
+        width: 311
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e13eedd6a939390800000000000000
+      internalID: -7812731131876139467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_46
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 559
+        width: 325
+        height: 465
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d42d7617680d300800000000000000
+      internalID: 274867398900862210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_47
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1044
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6212ae79bd8cb610800000000000000
+      internalID: 1638340192289034858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_48
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 538
+        width: 397
+        height: 502
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640c02923a8ba9460800000000000000
+      internalID: 7249309561115426886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 14
+        width: 737
+        height: 524
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9479b9bc27f4542a0800000000000000
+      internalID: -6753904711711353015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elementos del proyecto_50
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 59
+        width: 689
+        height: 480
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830d84aa47e66e130800000000000000
+      internalID: 3595682799854080056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
